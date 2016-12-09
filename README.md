@@ -24,7 +24,7 @@ You will see a UI pop up.  Click the "File 1" button and select "Bach Sample Fil
 This is a MIDI file of one of Bach's famous Cello Suites.  You may tinker with the Markov chain order and the output
 length, but the default values (3 and 500) will work well for this test file. Click save destination and select a folder
 in which you would like the output file to save, the click Composerate! Note that it will actually save in the directory
-ABOVE the one you click; apologies for that. As you can see, this is more about the algorithm than UX :smile:
+ABOVE the one you click; apologies for that. As you can see, this is more about the algorithm than UX :smiley:
 
 Once finished, you can open the resulting MIDI file in one of the programs listed above to listen to it. You should hear
 a natural, Bach-like, machine-composed melody!
